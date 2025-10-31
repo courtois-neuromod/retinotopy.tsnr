@@ -1,0 +1,1 @@
+73d1419b-f671-4c8c-9a1b-2e660ac89fb2 autoenable=true bucket=cneuromod.retinotopy.tsnr chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=unfs3.cneuromod.retinotopy.tsnr port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1761924420.102064288s
